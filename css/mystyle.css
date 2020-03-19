@@ -1,0 +1,28 @@
+*/body {
+font-family:Noto Sans TC;
+padding-top:54px;
+color:#968686
+}
+
+.dev-icons .list-inline-item i:hover {
+color:#bd384a
+}
+
+#sideNav .navbar-toggler:focus {
+outline-color:#d48a6e
+
+.bg-primary {
+background-color:#bd384a!important
+}
+
+.text-primary {
+color:#bd384a!important
+}
+
+a {
+color:#bd384a
+}
+
+a:active,a:focus,a:hover {
+color:#782631
+}
