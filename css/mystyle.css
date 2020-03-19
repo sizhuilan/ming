@@ -2,6 +2,7 @@
 font-family: 'Noto Sans TC', sans-serif;
 padding-top:54px;
 color:#968686
+text-transform:none;
 }
 
 .dev-icons .list-inline-item i:hover {
