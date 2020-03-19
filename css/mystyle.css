@@ -10,7 +10,7 @@ color:#bd384a;
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Noto Sans TC', sans-serif;
 	text-transform:none;
-	color:#3e3440
+	color:#3e3440;
 }
 
 #sideNav .navbar-toggler:focus {
@@ -31,4 +31,29 @@ color:#bd384a
 a:active,a:focus,a:hover {
 color:#782631
 }
+}
+
+.subheading {
+	text-transform:none;
+	font-family: 'Noto Sans TC', sans-serif;
+}
+
+#about {
+	line-height:2.5rem
+}
+
+.bg-primary {
+background-color:#bd384a!important
+}
+
+.text-primary {
+color:#bd384a!important
+}
+
+a {
+color:#bd384a
+}
+
+a:active,a:focus,a:hover {
+color:#782631
 }
