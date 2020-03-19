@@ -1,11 +1,16 @@
 body {
 font-family: 'Noto Sans TC', sans-serif;
 color:#968686;
-text-transform:none;
 }
 
 .dev-icons .list-inline-item i:hover {
 color:#bd384a;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Noto Sans TC', sans-serif;
+	text-transform:none;
+	color:#3e3440
 }
 
 #sideNav .navbar-toggler:focus {
@@ -25,4 +30,5 @@ color:#bd384a
 
 a:active,a:focus,a:hover {
 color:#782631
+}
 }
