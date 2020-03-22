@@ -3,34 +3,10 @@ font-family: 'Noto Sans TC', sans-serif;
 color:#968686;
 }
 
-.dev-icons .list-inline-item i:hover {
-color:#bd384a;
-}
-
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Noto Sans TC', sans-serif;
 	text-transform:none;
 	color:#3e3440;
-}
-
-#sideNav .navbar-toggler:focus {
-outline-color:#d48a6e;
-
-.bg-primary {
-background-color:#bd384a!important
-}
-
-.text-primary {
-color:#bd384a!important
-}
-
-a {
-color:#bd384a
-}
-
-a:active,a:focus,a:hover {
-color:#782631
-}
 }
 
 .subheading {
@@ -42,18 +18,26 @@ color:#782631
 	line-height:2.5rem
 }
 
-.bg-primary {
-background-color:#bd384a!important
-}
-
-.text-primary {
-color:#bd384a!important
+.interest, .skill {
+	font-size:30px
 }
 
 a {
-color:#bd384a
+    color: #b32424;
 }
 
 a:active,a:focus,a:hover {
-color:#782631
+    color: #4a1525
+}
+
+.text-primary {
+    color: #bd384a!important
+}
+
+.bg-primary {
+    background-color: #bd384a!important
+}
+
+.social-icons a:hover {
+    background-color: #4a1525
 }
