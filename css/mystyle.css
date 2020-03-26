@@ -35,7 +35,8 @@ a:active,a:focus,a:hover {
 }
 
 .bg-primary {
-    background-color: #bd384a!important
+    background-color: #bd384a!important;
+    background-image: url("https://www.transparenttextures.com/patterns/light-wool.png");
 }
 
 .social-icons a:hover {
